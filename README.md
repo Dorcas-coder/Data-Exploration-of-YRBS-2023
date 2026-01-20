@@ -44,6 +44,18 @@ The project uses the following tools:
 ---
 
 ## Project Structure  
+Data-Exploration-of-YRBS-2023/
+│
+├── data/
+│ └── YRBS_2023.csv
+│
+├── notebooks/
+│ └── YRBS_Data_Exploration.ipynb
+│
+├── visuals/
+│ └── Charts and plots generated from the analysis
+│
+├── README.md
 
 ## Methodology  
 The analysis follows these steps:
